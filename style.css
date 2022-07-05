@@ -1,0 +1,41 @@
+/*Headder section Style start*/
+#header{
+    width: 1355px;
+    height: 560px;
+    font-size: larger;
+    background-image: url(images/donation14.webp);
+    background-size: 1355px 560px;
+    font-family: 'Poppins', sans-serif;
+    background-repeat: no-repeat;
+    position: relative;  
+}
+.bg-color{
+    background:  rgba(0, 0, 0, 0.60);
+    width: 1355px;
+    height: 560px;
+}
+.text1{
+    
+    color: whitesmoke;
+    text-align: center;
+    height: 320px;
+    width: 760px;
+    margin-top: 10%;
+    margin-left: 20%;
+    position: absolute;
+
+}
+
+.btn{
+    height: 40px;
+    width: 119px;
+    background-color: red;
+    border-radius: 10px;
+}
+.anchor{
+    text-decoration: none;
+    color: aliceblue;
+    font-size: larger;
+}
+
+/*Headder section Style end*/
