@@ -94,6 +94,7 @@
 .thirdpage{
     padding: 130px;
     text-align: center;
+    font-family: 'Poppins', sans-serif;
 }
 
 .text3{
@@ -126,6 +127,46 @@
     padding-top: 20px;
 }
 /*third page end*/
+
+/* four page start*/
+
+.fourpage{
+    margin-left: 100PX;
+    margin-right: 100px;
+    margin-bottom: 100px;
+    font-family: 'Poppins', sans-serif;
+}
+.textpart{
+    width: 50%;
+    text-align: left;
+
+    display:inline-block;
+}
+
+.imagepart {
+   
+    display:inline-block;
+}
+
+.imagepart img{
+    width: 400px;
+    height: 350px;
+    border-radius: 8px;
+    display:inline-block;
+}
+/*four page end*/
+
+/* five page start*/
+
+.textpart1{
+    margin-left: 50px;
+    width: 50%;
+    text-align: left;
+    display:inline-block;
+}
+
+
+/*five page end*/
 
 /*six page start*/
 
